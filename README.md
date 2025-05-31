@@ -1,9 +1,12 @@
-# Eliisi Picture Downloader
+# 📸 Eliis Photo Downloader
 
-A Python automation tool to download pictures and descriptions from eliis.eu for multiple children.
+**Download ALL your kids' kindergarten photos with ONE command!** 🎉
 
-## Problem Statement
-Currently, eliis.eu only allows downloading pictures one at a time through the web interface. With multiple children, this becomes time-consuming. This tool automates the process of downloading all pictures and their descriptions.
+## 😫 The Problem
+eliis.eu only lets you download photos one... at... a... time. With 2 kids and hundreds of photos? That's HOURS of clicking!
+
+## 🚀 The Solution
+This tool downloads EVERYTHING automatically while you drink coffee ☕
 
 ## Design Principles (ADHD-Friendly)
 - **KISS**: Keep It Simple, Stupid - One button, it just works
