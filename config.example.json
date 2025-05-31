@@ -1,0 +1,20 @@
+{
+    "firefox_profile_path": "/home/YOUR_USERNAME/.mozilla/firefox/XXXXXXXX.default-release",
+    "children": [
+        {
+            "name": "Child1_FirstName",
+            "id": "246426",
+            "folder_name": "child1_firstname"
+        },
+        {
+            "name": "Child2_FirstName",
+            "id": "CHILD_ID_HERE",
+            "folder_name": "child2_firstname"
+        }
+    ],
+    "download_path": "./downloads",
+    "skip_existing": true,
+    "debug_mode": false,
+    "wait_time": 2,
+    "max_scroll_attempts": 10
+}
